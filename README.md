@@ -1,5 +1,3 @@
-# Welcome 
+# Welcome to my GithHub profile
 
-## Hamza Ghnaim
-### (Software Developer)
 
