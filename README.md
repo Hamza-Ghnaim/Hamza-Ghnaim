@@ -17,14 +17,14 @@
 ---
 
 ### 📊 GitHub Stats
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzacode&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzacode&layout=compact&theme=tokyonight)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-Ghnaim&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Ghnaim&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🚀 Projects
-🌐 [Formania](https://github.com/hamzacode/formania) – SaaS form builder  
-🧵 [Tailor Website](https://github.com/hamzacode/alkharouf) – Elegant tailoring brand site  
+🌐 [Formania](https://github.com/Hamza-Ghnaim/formania) – SaaS form builder  
+🧵 [Tailor Website](https://github.com/Hamza-Ghnaim/alkharouf) – Elegant tailoring brand site  
 
 ---
 
