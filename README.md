@@ -13,22 +13,27 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?logo=express)
+![Sequelize](https://img.shields.io/badge/Sequelize-323330?logo=sequelize&logoColor=blue)
 
 ---
 
 ### 📊 GitHub Stats
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-Ghnaim&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
-![Hamza's Metrics](https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.activity.svg)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Ghnaim&layout=compact&theme=tokyonight)
+
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-Ghnaim&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Ghnaim&layout=compact&theme=tokyonight)
+
+> 🏢 *Note:* Some of my work contributions are under private or organizational repositories and may not appear here.
 
 ---
 
 ### 🚀 Projects
-🌐 [Formania](https://github.com/Hamza-Ghnaim/formania) – SaaS form builder  
-🧵 [Tailor Website](https://github.com/Hamza-Ghnaim/alkharouf) – Elegant tailoring brand site  
+🌐 [**Formania**](https://github.com/Hamza-Ghnaim/formania) – SaaS form builder  
+🧵 [**Al-Kharouf Tailor Website**](https://github.com/Hamza-Ghnaim/alkharouf) – Elegant tailoring brand site  
 
 ---
 
 ### 💬 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://yourdomain.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Hamza-Ghnaim&color=blueviolet)
