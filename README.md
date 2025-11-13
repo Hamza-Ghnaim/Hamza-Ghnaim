@@ -28,8 +28,8 @@
 ---
 
 ### 🚀 Projects
-🌐 [**Formania**](https://github.com/Hamza-Ghnaim/formania) – SaaS form builder  
-🧵 [**Al-Kharouf Tailor Website**](https://github.com/Hamza-Ghnaim/alkharouf) – Elegant tailoring brand site  
+🌐 (https://www.al-kharouf.com/))  
+🧵([https://github.com/Hamza-Ghnaim/alkharouf](https://www.alameerpaper.com/)) 
 
 ---
 
