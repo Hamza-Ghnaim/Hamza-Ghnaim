@@ -28,8 +28,8 @@
 ---
 
 ### 🚀 Projects
-🌐 (https://www.al-kharouf.com/))  
-🧵([https://github.com/Hamza-Ghnaim/alkharouf](https://www.alameerpaper.com/)) 
+🌐 (https://www.al-kharouf.com/)  
+🧵(https://www.alameerpaper.com/)
 
 ---
 
