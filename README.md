@@ -1,8 +1,6 @@
 ## 👋 Hey there, I'm Hamza
 
-💻 Frontend Engineer | 🌍 Based in Jordan  
-⚡ Building **Formania** – a modern form builder SaaS  
-🎯 Passionate about React, Next.js, and clean component design
+💻 Software Engineer | 🌍 Based in Jordan  
 
 ---
 
