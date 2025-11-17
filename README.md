@@ -32,6 +32,5 @@
 ---
 
 ### 💬 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://yourdomain.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link](https://www.linkedin.com/in/hamzaghnaim/))
 ![Profile Views](https://komarev.com/ghpvc/?username=Hamza-Ghnaim&color=blueviolet)
