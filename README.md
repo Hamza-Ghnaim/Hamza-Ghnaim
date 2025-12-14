@@ -2,8 +2,6 @@
 
 💻 Software Engineer | 🌍 Based in Jordan  
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Next.js+%26+React+Specialist;Building+Modern+Web+Apps)
-
 ---
 
 ### 🧠 Tech Stack
@@ -19,11 +17,11 @@
 
 ### 📊 GitHub Stats
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-Ghnaim&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamza-Ghnaim&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Ghnaim&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Ghnaim&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Hamza-Ghnaim&theme=tokyonight)
 
 > 🏢 *Note:* Some of my work contributions are under private or organizational repositories and may not appear here.
 
